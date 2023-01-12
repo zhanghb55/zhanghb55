@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m Hongbin Zhang, a graduate student at **Sun Yat-sen University**.
+- 🌱 I’m currently learning high-performance computing.
+- 📫 You can contact me at zhanghb55@mail2.sysu.edu.cn.
+- 👀 You can visit my personal website at https://zhang-hb.com/.
 <!--
 **zhanghb55/zhanghb55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
