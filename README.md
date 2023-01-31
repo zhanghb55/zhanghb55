@@ -6,9 +6,9 @@
 - 👀 You can visit my personal website at https://zhang-hb.com/.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,14 +16,14 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       13 hrs 13 mins      ████████████████░░░░░░░░░   65.38% 
-textmate                 3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
-Text                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
-AUTO_DETECTED            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
+Go                       9 hrs               ███████████████████░░░░░░   75.85% 
+Text                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
+textmate                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+AUTO_DETECTED            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
 ```
 
 
- Last Updated on 30/01/2023 00:31:05 UTC
+ Last Updated on 31/01/2023 00:36:54 UTC
 <!--END_SECTION:waka-->
