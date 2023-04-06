@@ -6,9 +6,9 @@
 - 👀 You can visit my personal website at https://zhang-hb.com/.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,13 +16,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      11 hrs 1 min        █████████████████░░░░░░░░   69.88 % 
-CMake                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Protocol Buffer          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Git Config               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C++                      13 hrs 51 mins      ██████████████████░░░░░░░   72.14 % 
+CMake                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Protocol Buffer          1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Other                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Git Config               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 
- Last Updated on 05/04/2023 00:27:07 UTC
+ Last Updated on 06/04/2023 00:30:28 UTC
 <!--END_SECTION:waka-->
