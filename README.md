@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,10 +16,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-CSV                      27 mins             █████████████████████████   99.96 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+CSV                      27 mins             ██████████████████░░░░░░░   72.67 % 
+Other                    10 mins             ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 05/06/2023 00:36:32 UTC
+ Last Updated on 06/06/2023 00:37:25 UTC
 <!--END_SECTION:waka-->
