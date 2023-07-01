@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -24,5 +24,5 @@ Git Config               0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/06/2023 00:38:31 UTC
+ Last Updated on 01/07/2023 00:43:58 UTC
 <!--END_SECTION:waka-->
