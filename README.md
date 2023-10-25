@@ -6,9 +6,9 @@
 - 👀 You can visit my personal website at https://zhang-hb.com/.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,13 +16,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.50 % 
-ActionScript 3           1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.65 % 
-CMake                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Ezhil                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.74 % 
+ActionScript 3           40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+CMake                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Ezhil                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 
 
- Last Updated on 24/10/2023 00:29:18 UTC
+ Last Updated on 25/10/2023 00:28:55 UTC
 <!--END_SECTION:waka-->
