@@ -6,7 +6,7 @@
 - 👀 You can visit my personal website at https://zhang-hb.com/.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -16,10 +16,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   14 mins             ████████████████░░░░░░░░░   63.02 % 
-SSH Config               8 mins              █████████░░░░░░░░░░░░░░░░   36.98 % 
+Python                   23 mins             ███████████████████░░░░░░   76.36 % 
+SSH Config               6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 13/11/2023 00:30:52 UTC
+ Last Updated on 14/11/2023 00:30:03 UTC
 <!--END_SECTION:waka-->
