@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,11 +16,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               4 mins              ████████████░░░░░░░░░░░░░   46.53 % 
-Python                   3 mins              █████████░░░░░░░░░░░░░░░░   35.34 % 
-TeX                      1 min               █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+SSH Config               4 mins              █████████████████████████   99.83 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
- Last Updated on 29/03/2024 00:29:48 UTC
+ Last Updated on 30/03/2024 00:28:55 UTC
 <!--END_SECTION:waka-->
