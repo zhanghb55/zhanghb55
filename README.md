@@ -16,9 +16,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     7 mins              ███████████████████░░░░░░   75.04 % 
+HTML                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
 ```
 
 
- Last Updated on 14/11/2024 00:40:01 UTC
+ Last Updated on 15/11/2024 00:42:46 UTC
 <!--END_SECTION:waka-->
