@@ -6,8 +6,6 @@
 - 👀 You can visit my personal website at https://zhang-hb.com/.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -21,5 +19,5 @@ Bash                     1 min               █░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/05/2025 00:46:27 UTC
+ Last Updated on 03/05/2025 00:44:37 UTC
 <!--END_SECTION:waka-->
